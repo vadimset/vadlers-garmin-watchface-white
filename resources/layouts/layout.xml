@@ -1,0 +1,13 @@
+<layout id="WatchFace">
+    <drawable class="Background" />
+    <label id="battDLabel" x="144" y="45" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" text=""/>
+    <label id="steppDLabel" x="170" y="107" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_BLACK" text=""/>
+    <label id="floorLabel" x="170" y="87" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_LEFT" color="Graphics.COLOR_BLACK" text=""/>
+    <label id="sunriseDLabel" x="97" y="133" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" text=""/>
+    <label id="sunsetDLabel" x="165" y="133" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" text=""/>
+    
+    <label id="feelsLikeLabel" x="70" y="85" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" text="--°"/>
+    <label id="tempSlashLabel" x="85" y="85" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" text="/"/>
+    <label id="tempLabel" x="102" y="85" font="Graphics.FONT_XTINY" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLACK" text="--°"/>
+    
+</layout>
